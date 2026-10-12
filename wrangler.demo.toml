@@ -1,6 +1,6 @@
-name = "edgechat-demo"
+name = "Codemoon Chat"
 compatibility_date = "2026-04-05"
 
 [assets]
-directory = "./frontend/demo-dist"
+directory = "./frontend/dist"
 not_found_handling = "single-page-application"
